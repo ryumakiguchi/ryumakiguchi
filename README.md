@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryusei Makiguchi</h1>
-<h3 align="center">I'm a former professional tennis player</h3>
+<h3 align="center">I'm a full stack developer and former professional tennis player</h3>
 
 - 🔭 I’m currently working on [Walker](http://www.app-walker.me/)
 
