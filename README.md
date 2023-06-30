@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryusei Makiguchi</h1>
-<h3 align="center">A passionate full-stack developer, and former tennis player</h3>
+<h3 align="center">A passionate developer, and former tennis player</h3>
 
 <p align="left"> <a href="https://twitter.com/ryumakiguchi" target="blank"><img src="https://img.shields.io/twitter/follow/ryumakiguchi?logo=twitter&style=for-the-badge" alt="ryumakiguchi" /></a> </p>
 
